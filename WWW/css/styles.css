@@ -1,0 +1,28 @@
+p {
+    font-size: large;
+    color:blueviolet;
+}
+
+img{
+    
+    border-style: dashed;
+    border-radius: 30%;
+    border-color: blueviolet;
+}
+
+#link-hola{
+    color: blueviolet;
+    border-style: dotted;
+}
+.link{
+    color: black;
+}
+
+#parrafo-importante{
+    border-style: solid;
+    padding-bottom: 80px;
+    padding-left:80px;
+    padding-right: 80px;
+    padding-top: 80px;
+    margin-bottom: 80px;
+}
